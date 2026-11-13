@@ -1,0 +1,2 @@
+# SAMPLING-THEOREM-AND-ITS-IMPLICATIONS-Technical-Report-with-Python-Simulation-
+A Python-based simulation of the Sampling Theorem demonstrating the relationship between sampling frequency and signal frequency. This project uses NumPy and Matplotlib to visualize signal sampling at 20 Hz, 10 Hz, and 7 Hz, explaining the Nyquist Rate, aliasing, and the importance of proper sampling in digital signal processing.
